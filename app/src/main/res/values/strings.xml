@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">levelupgamerx</string>
+
+    <!-- Navegación -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_cart">Carrito</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="nav_admin">Admin</string>
+
+    <!-- Botones -->
+    <string name="btn_add_to_cart">Agregar al Carrito</string>
+    <string name="btn_buy">Comprar</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+
+    <!-- Mensajes -->
+    <string name="msg_empty_cart">Tu carrito está vacío</string>
+    <string name="msg_login_required">Debes iniciar sesión</string>
+    <string name="msg_purchase_success">¡Compra exitosa!</string>
+    <string name="msg_review_success">¡Reseña publicada!</string>
+
+    <!-- Sistema de puntos -->
+    <string name="points_earned">Puntos ganados</string>
+    <string name="level">Nivel</string>
+    <string name="referral_code">Código de referido</string>
+
+    <!-- Descuento DUOC -->
+    <string name="duoc_discount">20% Descuento DUOC</string>
+    <string name="duoc_detected">Email DUOC detectado</string>
+</resources>
